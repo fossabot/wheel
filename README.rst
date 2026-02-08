@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwheel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwheel?ref=badge_shield)
+
 wheel
 =====
 
@@ -35,3 +37,7 @@ Everyone interacting in the wheel project's codebases, issue trackers, chat
 rooms, and mailing lists is expected to follow the `PSF Code of Conduct`_.
 
 .. _PSF Code of Conduct: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fwheel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fwheel?ref=badge_large)
